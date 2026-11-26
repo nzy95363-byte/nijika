@@ -1,0 +1,5 @@
+# DSH 伊地知虹夏主题插件挂载声明。
+# 在 DSH Desktop 插件管理器中使用本地项目目录安装。
+- insert:
+    - id: nijika-theme
+      name: dsh-plugin-nijika-theme
